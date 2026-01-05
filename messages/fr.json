@@ -1,0 +1,385 @@
+{
+    "HomePage": {
+        "metadata": {
+            "title": "Key Law Chambers Ltd | Représentation Juridique Experte au Rwanda",
+            "description": "Key Law Chambers Ltd fournit des services juridiques professionnels au Rwanda, spécialisé en droit des sociétés, contentieux et droit de la propriété."
+        },
+        "hero": {
+            "title": "Une Représentation Juridique Experte\nen Qui Vous Pouvez Avoir Confiance",
+            "subtitle": "Des services juridiques professionnels avec intégrité, expertise et dévouement pour obtenir les meilleurs résultats pour nos clients.",
+            "ctaPrimary": "Obtenez une Consultation Gratuite",
+            "ctaSecondary": "Nos Services"
+        },
+        "services": {
+            "title": "Nos Domaines de Pratique",
+            "subtitle": "Des services juridiques complets adaptés à vos besoins spécifiques",
+            "corporate": {
+                "title": "Droit des Sociétés",
+                "description": "Constitution d'entreprises, contrats, fusions et acquisitions, et questions de gouvernance d'entreprise."
+            },
+            "litigation": {
+                "title": "Contentieux Civil",
+                "description": "Représentation dans les litiges, les ruptures de contrat et les réclamations civiles avec un succès prouvé."
+            },
+            "criminal": {
+                "title": "Défense Pénale",
+                "description": "Stratégies de défense agressives protégeant vos droits et votre liberté dans les affaires pénales."
+            },
+            "family": {
+                "title": "Droit de la Famille",
+                "description": "Accompagnement compatissant pour le divorce, la garde d'enfants et les questions juridiques liées à la famille."
+            },
+            "property": {
+                "title": "Droit de la Propriété",
+                "description": "Transactions immobilières, litiges de propriété et services d'enregistrement foncier."
+            },
+            "employment": {
+                "title": "Droit du Travail",
+                "description": "Litiges sur le lieu de travail, contrats de travail et représentation en droit du travail."
+            },
+            "viewAll": "Voir Tous les Services"
+        },
+        "whyChooseUs": {
+            "title": "Pourquoi Choisir Key Law Chambers ?",
+            "subtitle": "Engagé envers l'excellence dans la représentation juridique",
+            "expertise": {
+                "title": "Expertise Prouvée",
+                "description": "Des années d'expérience pour obtenir des résultats probants pour nos clients dans diverses affaires juridiques."
+            },
+            "service": {
+                "title": "Service Réactif",
+                "description": "Nous accordons la priorité à une communication claire et à des réponses rapides à toutes les demandes et préoccupations des clients."
+            },
+            "clientFocused": {
+                "title": "Centré sur le Client",
+                "description": "Votre succès est notre priorité. Nous adaptons notre approche pour répondre à vos besoins juridiques uniques."
+            }
+        },
+        "cta": {
+            "title": "Prêt à Discuter de Votre Affaire Juridique ?",
+            "subtitle": "Contactez-nous aujourd'hui pour une consultation gratuite. Nous sommes là pour vous aider à relever vos défis juridiques.",
+            "primary": "Planifier une Consultation",
+            "secondary": "Appelez : +250 788 304 792"
+        }
+    },
+    "Navbar": {
+        "home": "Accueil",
+        "about": "À Propos",
+        "practiceAreas": "Domaines de Pratique",
+        "contact": "Contactez-nous"
+    },
+    "Footer": {
+        "about": "Représentation juridique experte et services de consultation. Engagé envers l'excellence et l'intégrité dans chaque cas que nous traitons.",
+        "quickLinks": "Liens Rapides",
+        "contactUs": "Contactez-nous",
+        "privacyPolicy": "Politique de Confidentialité",
+        "hours": "Lun - Ven : 9h00 - 17h00",
+        "rights": "© {year} Key Law Chambers Ltd. Tous droits réservés."
+    },
+    "AboutPage": {
+        "metadata": {
+            "title": "À Propos de Nous | Key Law Chambers Ltd",
+            "description": "Découvrez Key Law Chambers Ltd, notre mission, nos valeurs et notre engagement à fournir des services juridiques exceptionnels."
+        },
+        "hero": {
+            "title": "À Propos de Key Law Chambers Ltd",
+            "subtitle": "Dédié à fournir des services juridiques exceptionnels avec intégrité, professionnalisme et un engagement inébranlable envers nos clients."
+        },
+        "mission": {
+            "title": "Notre Mission",
+            "description": "Fournir à nos clients une représentation juridique de la plus haute qualité, combinant une expertise juridique approfondie avec une attention personnalisée. Nous nous efforçons d'obtenir les meilleurs résultats possibles tout en respectant les normes éthiques les plus élevées."
+        },
+        "vision": {
+            "title": "Notre Vision",
+            "description": "Être reconnu comme un cabinet d'avocats de premier plan, connu pour son excellence, son innovation et la satisfaction de ses clients. Nous envisageons une pratique où chaque client reçoit un service exceptionnel et atteint ses objectifs juridiques."
+        },
+        "counsel": {
+            "title": "Rencontrez Notre Avocat Principal",
+            "subtitle": "Professionnel du droit expérimenté dédié à votre succès",
+            "name": "NTAZIKA Néhémie",
+            "role": "Avocat Principal",
+            "background": {
+                "title": "Parcours Professionnel",
+                "description": "NTAZIKA Néhémie apporte une vaste expérience et des connaissances juridiques approfondies à Key Law Chambers Ltd. Avec un historique de succès et la satisfaction des clients, il s'engage à fournir une représentation juridique exceptionnelle dans divers domaines de pratique."
+            },
+            "expertise": {
+                "title": "Domaines d'Expertise",
+                "corporate": "Droit des Sociétés et Droit Commercial",
+                "litigation": "Contentieux Civil et Résolution de Litiges",
+                "criminal": "Défense Pénale",
+                "property": "Droit de la Propriété et Droit Immobilier"
+            },
+            "commitment": {
+                "title": "Engagement Professionnel",
+                "description": "Dédié au maintien des normes les plus élevées de la pratique juridique, NTAZIKA Néhémie veille à ce que chaque client reçoive une attention personnalisée, des conseils stratégiques et une représentation vigoureuse adaptée à ses besoins juridiques uniques."
+            }
+        },
+        "values": {
+            "title": "Nos Valeurs Fondamentales",
+            "subtitle": "Les principes qui guident notre pratique",
+            "integrity": {
+                "title": "Intégrité",
+                "description": "Respecter les normes éthiques les plus élevées dans toutes nos relations"
+            },
+            "excellence": {
+                "title": "Excellence",
+                "description": "Fournir des services juridiques supérieurs grâce à un apprentissage continu"
+            },
+            "clientFocus": {
+                "title": "Centré sur le Client",
+                "description": "Donner la priorité aux intérêts de nos clients dans tout ce que nous faisons"
+            },
+            "results": {
+                "title": "Axé sur les Résultats",
+                "description": "Engagé à obtenir les meilleurs résultats pour nos clients"
+            }
+        },
+        "cta": {
+            "title": "Travaillons Ensemble",
+            "subtitle": "Découvrez la différence de travailler avec une équipe juridique dévouée qui se soucie vraiment de votre succès.",
+            "button": "Contactez-nous Aujourd'hui"
+        }
+    },
+    "ContactPage": {
+        "metadata": {
+            "title": "Contactez-nous | Key Law Chambers Ltd",
+            "description": "Contactez Key Law Chambers Ltd pour une consultation gratuite. Appelez le +250 788 304 792 ou remplissez notre formulaire de contact."
+        },
+        "hero": {
+            "title": "Contactez-nous",
+            "subtitle": "Contactez-nous dès aujourd'hui pour une consultation gratuite. Nous sommes là pour vous aider avec vos besoins juridiques."
+        },
+        "info": {
+            "title": "Entrez en Contact",
+            "description": "Nous comprenons que les questions juridiques peuvent être stressantes. C'est pourquoi nous nous engageons à fournir un service rapide, professionnel et personnalisé. Contactez-nous dès aujourd'hui pour discuter de vos besoins juridiques.",
+            "phone": "Téléphone",
+            "email": "Email",
+            "hours": {
+                "title": "Heures d'Ouverture",
+                "days": "Lundi - Vendredi",
+                "time": "9:00 - 17:00"
+            },
+            "location": {
+                "title": "Emplacement du Bureau",
+                "city": "Kigali, Rwanda",
+                "note": "(Adresse exacte à fournir)"
+            },
+            "map": {
+                "title": "Google Maps sera intégré ici",
+                "subtitle": "Une fois l'adresse du bureau fournie"
+            }
+        },
+        "form": {
+            "title": "Envoyez-nous un Message",
+            "subtitle": "Remplissez le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais."
+        },
+        "cta": {
+            "title": "Vous Préférez Parler Directement ?",
+            "subtitle": "Appelez-nous et parlez à l'un de nos professionnels juridiques dès aujourd'hui.",
+            "button": "Appel: +250 788 304 792"
+        }
+    },
+    "ContactForm": {
+        "labels": {
+            "name": "Nom Complet *",
+            "email": "Adresse Email *",
+            "phone": "Numéro de Téléphone",
+            "issue": "Type de Problème Juridique *",
+            "message": "Message *"
+        },
+        "placeholders": {
+            "name": "Entrez votre nom complet",
+            "email": "votre.email@exemple.com",
+            "phone": "+250 XXX XXX XXX",
+            "issue": "Sélectionnez une option",
+            "message": "Veuillez décrire votre affaire juridique..."
+        },
+        "issues": {
+            "corporate": "Droit des Sociétés",
+            "civil": "Contentieux Civil",
+            "criminal": "Défense Pénale",
+            "family": "Droit de la Famille",
+            "property": "Droit de la Propriété",
+            "employment": "Droit du Travail",
+            "other": "Autre"
+        },
+        "messages": {
+            "success": "Merci pour votre message ! Nous vous répondrons bientôt.",
+            "error": "Une erreur s'est produite. Veuillez réessayer ou nous contacter directement."
+        },
+        "buttons": {
+            "sending": "Envoi en cours...",
+            "send": "Envoyer le Message"
+        },
+        "footer": "* Champs obligatoires. Vos informations resteront confidentielles."
+    },
+    "PracticeAreasPage": {
+        "metadata": {
+            "title": "Domaines de Pratique | Key Law Chambers Ltd",
+            "description": "Services juridiques complets incluant le droit des sociétés, le contentieux civil, la défense pénale, le droit de la famille, le droit de la propriété et le droit du travail."
+        },
+        "hero": {
+            "title": "Nos Domaines de Pratique",
+            "subtitle": "Des services juridiques complets adaptés à vos besoins spécifiques dans un large éventail de domaines."
+        },
+        "services": {
+            "corporate": {
+                "title": "Droit des Sociétés",
+                "description": "Constitution de sociétés, gouvernance d'entreprise, fusions et acquisitions, contrats commerciaux, pactes d'actionnaires et conformité réglementaire. Nous aidons les entreprises à naviguer dans des paysages juridiques complexes."
+            },
+            "civil": {
+                "title": "Contentieux Civil",
+                "description": "Représentation dans les litiges civils, ruptures de contrat, réclamations délictuelles, recouvrement de créances et litiges commerciaux. Nos plaideurs expérimentés se battent vigoureusement pour protéger vos intérêts devant les tribunaux."
+            },
+            "criminal": {
+                "title": "Défense Pénale",
+                "description": "Stratégies de défense agressives pour les accusations criminelles, des infractions mineures aux crimes graves. Nous protégeons vos droits, votre liberté et votre avenir avec une représentation juridique complète."
+            },
+            "family": {
+                "title": "Droit de la Famille",
+                "description": "Accompagnement compatissant pour le divorce, la garde d'enfants, la pension alimentaire, l'adoption et d'autres questions familiales. Nous vous aidons à naviguer dans des questions juridiques émotionnelles avec sensibilité et expertise."
+            },
+            "property": {
+                "title": "Droit de la Propriété",
+                "description": "Transactions immobilières, litiges de propriété, enregistrement foncier, vérification de titres, contrats de bail et promotion immobilière. Support juridique complet pour toutes les questions de propriété."
+            },
+            "employment": {
+                "title": "Droit du Travail",
+                "description": "Contrats de travail, litiges sur le lieu de travail, licenciement abusif, plaintes pour discrimination et conformité au droit du travail. Protéger à la fois les employeurs et les employés dans les questions de travail."
+            },
+            "contract": {
+                "title": "Droit des Contrats",
+                "description": "Rédaction, révision et négociation de contrats de tous types. S'assurer que vos accords sont juridiquement solides et protègent vos intérêts dans les transactions commerciales et personnelles."
+            },
+            "banking": {
+                "title": "Banque & Finance",
+                "description": "Transactions financières, accords de prêt, titres, réglementations bancaires et résolution de litiges financiers. Conseils d'experts sur les questions juridiques financières complexes."
+            },
+            "ip": {
+                "title": "Propriété Intellectuelle",
+                "description": "Enregistrement de marques, protection des droits d'auteur, demandes de brevets et litiges de propriété intellectuelle. Sauvegarder vos œuvres créatives et vos innovations contre la contrefaçon."
+            }
+        },
+        "approach": {
+            "title": "Notre Approche",
+            "subtitle": "Nous combinons expertise juridique et service personnalisé pour obtenir des résultats exceptionnels",
+            "strategic": {
+                "title": "Pensée Stratégique",
+                "description": "Nous élaborons des stratégies juridiques personnalisées adaptées à votre situation et à vos objectifs uniques."
+            },
+            "communication": {
+                "title": "Communication Claire",
+                "description": "Nous vous informons à chaque étape avec une communication transparente et sans jargon."
+            },
+            "results": {
+                "title": "Résultats Prouvés",
+                "description": "Nos antécédents parlent d'eux-mêmes avec des résultats probants dans tous les domaines de pratique."
+            },
+            "cta": {
+                "title": "Besoin d'Assistance Juridique ?",
+                "subtitle": "Contactez-nous aujourd'hui pour discuter de la manière dont nous pouvons vous aider dans votre dossier juridique.",
+                "button": "Planifier une Consultation"
+            }
+        }
+    },
+    "PrivacyPolicyPage": {
+        "metadata": {
+            "title": "Politique de Confidentialité | Key Law Chambers Ltd",
+            "description": "Politique de confidentialité de Key Law Chambers Ltd. Découvrez comment nous collectons, utilisons et protégeons vos informations personnelles."
+        },
+        "hero": {
+            "title": "Politique de Confidentialité",
+            "date": "Dernière mise à jour : 29 décembre 2025"
+        },
+        "intro": "Chez Key Law Chambers Ltd, nous nous engageons à protéger votre vie privée et à maintenir la confidentialité de vos informations personnelles. Cette Politique de Confidentialité explique comment nous collectons, utilisons, divulguons et protégeons vos informations.",
+        "sections": {
+            "s1": {
+                "title": "1. Informations que nous collectons",
+                "p1": "Nous pouvons collecter des informations personnelles que vous nous fournissez volontairement lorsque vous :",
+                "list1": [
+                    "Nous contactez via le formulaire de contact de notre site web",
+                    "Appelez ou envoyez un e-mail à notre bureau",
+                    "Faites appel à nos services juridiques",
+                    "Visitez notre bureau en personne"
+                ],
+                "p2": "Les types d'informations personnelles que nous pouvons collecter incluent :",
+                "list2": [
+                    "Nom et coordonnées (adresse e-mail, numéro de téléphone, adresse postale)",
+                    "Informations sur votre affaire juridique",
+                    "Toute autre information que vous choisissez de fournir"
+                ]
+            },
+            "s2": {
+                "title": "2. Comment nous utilisons vos informations",
+                "p1": "Nous utilisons les informations que nous collectons pour :",
+                "list": [
+                    "Fournir des services juridiques et répondre à vos demandes",
+                    "Communiquer avec vous au sujet de vos affaires juridiques",
+                    "Maintenir les dossiers des clients et les fichiers d'affaires",
+                    "Se conformer aux obligations légales et professionnelles",
+                    "Améliorer nos services et la fonctionnalité du site web"
+                ]
+            },
+            "s3": {
+                "title": "3. Secret Professionnel",
+                "content": "Toutes les communications entre vous et Key Law Chambers Ltd sont protégées par le secret professionnel et les règles de confidentialité professionnelle. Nous maintenons une confidentialité stricte de toutes les informations client conformément aux obligations légales et éthiques."
+            },
+            "s4": {
+                "title": "4. Partage et Divulgation des Informations",
+                "p1": "Nous ne vendons, n'échangeons ni ne louons vos informations personnelles à des tiers. Nous pouvons partager vos informations uniquement dans les circonstances suivantes :",
+                "list": [
+                    "Avec votre consentement explicite",
+                    "Lorsque la loi ou une procédure judiciaire l'exige",
+                    "Pour protéger nos droits, notre propriété ou notre sécurité, ou ceux d'autrui",
+                    "Avec des prestataires de services qui nous aident à exploiter notre cabinet (soumis à des accords de confidentialité)"
+                ]
+            },
+            "s5": {
+                "title": "5. Sécurité des Données",
+                "content": "Nous mettons en œuvre des mesures de sécurité techniques et organisationnelles appropriées pour protéger vos informations personnelles contre l'accès non autorisé, l'altération, la divulgation ou la destruction. Cependant, aucune méthode de transmission sur Internet ou de stockage électronique n'est sûre à 100 %, et nous ne pouvons garantir une sécurité absolue."
+            },
+            "s6": {
+                "title": "6. Cookies et Analyse de Site Web",
+                "content": "Notre site web peut utiliser des cookies et des technologies de suivi similaires pour améliorer l'expérience utilisateur et analyser le trafic du site web. Vous pouvez contrôler les paramètres des cookies via les préférences de votre navigateur."
+            },
+            "s7": {
+                "title": "7. Vos Droits",
+                "p1": "Vous avez le droit de :",
+                "list": [
+                    "Accéder aux informations personnelles que nous détenons à votre sujet",
+                    "Demander la correction d'informations inexactes",
+                    "Demander la suppression de vos informations personnelles (sous réserve d'obligations légales)",
+                    "Retirer votre consentement au traitement de vos informations",
+                    "Déposer une plainte auprès des autorités de protection des données compétentes"
+                ]
+            },
+            "s8": {
+                "title": "8. Rétention des Données",
+                "content": "Nous conservons vos informations personnelles aussi longtemps que nécessaire pour remplir les objectifs décrits dans cette Politique de Confidentialité, nous conformer aux obligations légales, résoudre les litiges et faire respecter nos accords. Les dossiers des clients sont conservés conformément aux règles professionnelles et aux exigences légales."
+            },
+            "s9": {
+                "title": "9. Liens vers des Tiers",
+                "content": "Notre site web peut contenir des liens vers des sites web de tiers. Nous ne sommes pas responsables des pratiques de confidentialité ou du contenu de ces sites externes. Nous vous encourageons à consulter les politiques de confidentialité de tous les sites tiers que vous visitez."
+            },
+            "s10": {
+                "title": "10. Modifications de cette Politique de Confidentialité",
+                "content": "Nous pouvons mettre à jour cette Politique de Confidentialité de temps à autre. Nous vous informerons de tout changement en publiant la nouvelle Politique de Confidentialité sur cette page et en mettant à jour la date de « Dernière mise à jour ». Nous vous encourageons à consulter périodiquement cette Politique de Confidentialité."
+            },
+            "s11": {
+                "title": "11. Contactez-nous",
+                "p1": "Si vous avez des questions ou des préoccupations concernant cette Politique de Confidentialité ou nos pratiques en matière de données, veuillez nous contacter :",
+                "info": {
+                    "name": "Key Law Chambers Ltd",
+                    "phone": "Téléphone : ",
+                    "email": "E-mail : ",
+                    "hours": "Heures d'ouverture : Lundi - Vendredi, 9h00 - 17h00"
+                }
+            }
+        },
+        "footer": {
+            "title": "Responsabilité Professionnelle :",
+            "content": "En tant que professionnels du droit, nous sommes tenus par des règles éthiques strictes concernant la confidentialité des clients. Votre confiance est primordiale, et nous prenons très au sérieux notre responsabilité de protéger vos informations.",
+            "button": "Contactez-nous"
+        }
+    }
+}

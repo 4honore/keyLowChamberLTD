@@ -1,0 +1,385 @@
+{
+    "HomePage": {
+        "metadata": {
+            "title": "Key Law Chambers Ltd | Expert Legal Representation in Rwanda",
+            "description": "Key Law Chambers Ltd provides professional legal services in Rwanda, specializing in corporate law, litigation, and property law."
+        },
+        "hero": {
+            "title": "Expert Legal Representation\nYou Can Trust",
+            "subtitle": "Professional legal services with integrity, expertise, and dedication to achieving the best outcomes for our clients.",
+            "ctaPrimary": "Get Free Consultation",
+            "ctaSecondary": "Our Services"
+        },
+        "services": {
+            "title": "Our Practice Areas",
+            "subtitle": "Comprehensive legal services tailored to meet your specific needs",
+            "corporate": {
+                "title": "Corporate Law",
+                "description": "Business formation, contracts, mergers & acquisitions, and corporate governance matters."
+            },
+            "litigation": {
+                "title": "Civil Litigation",
+                "description": "Representation in disputes, contract breaches, and civil claims with proven success."
+            },
+            "criminal": {
+                "title": "Criminal Defense",
+                "description": "Aggressive defense strategies protecting your rights and freedom in criminal matters."
+            },
+            "family": {
+                "title": "Family Law",
+                "description": "Compassionate guidance through divorce, custody, and family-related legal matters."
+            },
+            "property": {
+                "title": "Property Law",
+                "description": "Real estate transactions, property disputes, and land registration services."
+            },
+            "employment": {
+                "title": "Employment Law",
+                "description": "Workplace disputes, employment contracts, and labor law representation."
+            },
+            "viewAll": "View All Services"
+        },
+        "whyChooseUs": {
+            "title": "Why Choose Key Law Chambers?",
+            "subtitle": "Committed to excellence in legal representation",
+            "expertise": {
+                "title": "Proven Expertise",
+                "description": "Years of experience delivering successful outcomes for our clients across various legal matters."
+            },
+            "service": {
+                "title": "Responsive Service",
+                "description": "We prioritize clear communication and timely responses to all client inquiries and concerns."
+            },
+            "clientFocused": {
+                "title": "Client-Focused",
+                "description": "Your success is our priority. We tailor our approach to meet your unique legal needs."
+            }
+        },
+        "cta": {
+            "title": "Ready to Discuss Your Legal Matter?",
+            "subtitle": "Contact us today for a free consultation. We're here to help you navigate your legal challenges.",
+            "primary": "Schedule Consultation",
+            "secondary": "Call: +250 788 304 792"
+        }
+    },
+    "Navbar": {
+        "home": "Home",
+        "about": "About Us",
+        "practiceAreas": "Practice Areas",
+        "contact": "Contact Us"
+    },
+    "Footer": {
+        "about": "Expert legal representation and consultation services. Committed to excellence and integrity in every case we handle.",
+        "quickLinks": "Quick Links",
+        "contactUs": "Contact Us",
+        "privacyPolicy": "Privacy Policy",
+        "hours": "Mon - Fri: 9:00 AM - 5:00 PM",
+        "rights": "© {year} Key Law Chambers Ltd. All rights reserved."
+    },
+    "AboutPage": {
+        "metadata": {
+            "title": "About Us | Key Law Chambers Ltd",
+            "description": "Learn about Key Law Chambers Ltd, our mission, values, and commitment to providing exceptional legal services."
+        },
+        "hero": {
+            "title": "About Key Law Chambers Ltd",
+            "subtitle": "Dedicated to providing exceptional legal services with integrity, professionalism, and unwavering commitment to our clients."
+        },
+        "mission": {
+            "title": "Our Mission",
+            "description": "To provide our clients with the highest quality legal representation, combining deep legal expertise with personalized attention. We strive to achieve the best possible outcomes while maintaining the highest ethical standards."
+        },
+        "vision": {
+            "title": "Our Vision",
+            "description": "To be recognized as a leading law firm known for excellence, innovation, and client satisfaction. We envision a practice where every client receives exceptional service and achieves their legal objectives."
+        },
+        "counsel": {
+            "title": "Meet Our Lead Counsel",
+            "subtitle": "Experienced legal professional dedicated to your success",
+            "name": "NTAZIKA Néhémie",
+            "role": "Lead Counsel",
+            "background": {
+                "title": "Professional Background",
+                "description": "NTAZIKA Néhémie brings extensive experience and deep legal knowledge to Key Law Chambers Ltd. With a proven track record of successful case outcomes and client satisfaction, he is committed to providing exceptional legal representation across various practice areas."
+            },
+            "expertise": {
+                "title": "Areas of Expertise",
+                "corporate": "Corporate and Commercial Law",
+                "litigation": "Civil Litigation and Dispute Resolution",
+                "criminal": "Criminal Defense",
+                "property": "Property and Real Estate Law"
+            },
+            "commitment": {
+                "title": "Professional Commitment",
+                "description": "Dedicated to upholding the highest standards of legal practice, NTAZIKA Néhémie ensures that every client receives personalized attention, strategic counsel, and vigorous representation tailored to their unique legal needs."
+            }
+        },
+        "values": {
+            "title": "Our Core Values",
+            "subtitle": "The principles that guide our practice",
+            "integrity": {
+                "title": "Integrity",
+                "description": "Upholding the highest ethical standards in all our dealings"
+            },
+            "excellence": {
+                "title": "Excellence",
+                "description": "Delivering superior legal services through continuous learning"
+            },
+            "clientFocus": {
+                "title": "Client Focus",
+                "description": "Putting our clients' interests first in everything we do"
+            },
+            "results": {
+                "title": "Results-Driven",
+                "description": "Committed to achieving the best outcomes for our clients"
+            }
+        },
+        "cta": {
+            "title": "Let's Work Together",
+            "subtitle": "Experience the difference of working with a dedicated legal team that truly cares about your success.",
+            "button": "Contact Us Today"
+        }
+    },
+    "ContactPage": {
+        "metadata": {
+            "title": "Contact Us | Key Law Chambers Ltd",
+            "description": "Get in touch with Key Law Chambers Ltd for a free consultation. Call +250 788 304 792 or fill out our contact form."
+        },
+        "hero": {
+            "title": "Contact Us",
+            "subtitle": "Get in touch with us today for a free consultation. We're here to help you with your legal needs."
+        },
+        "info": {
+            "title": "Get In Touch",
+            "description": "We understand that legal matters can be stressful. That's why we're committed to providing prompt, professional, and personalized service. Reach out to us today to discuss your legal needs.",
+            "phone": "Phone",
+            "email": "Email",
+            "hours": {
+                "title": "Office Hours",
+                "days": "Monday - Friday",
+                "time": "9:00 AM - 5:00 PM"
+            },
+            "location": {
+                "title": "Office Location",
+                "city": "Kigali, Rwanda",
+                "note": "(Exact address to be provided)"
+            },
+            "map": {
+                "title": "Google Maps will be embedded here",
+                "subtitle": "Once office address is provided"
+            }
+        },
+        "form": {
+            "title": "Send Us a Message",
+            "subtitle": "Fill out the form below and we'll get back to you as soon as possible."
+        },
+        "cta": {
+            "title": "Prefer to Talk Directly?",
+            "subtitle": "Give us a call and speak with one of our legal professionals today.",
+            "button": "Call: +250 788 304 792"
+        }
+    },
+    "ContactForm": {
+        "labels": {
+            "name": "Full Name *",
+            "email": "Email Address *",
+            "phone": "Phone Number",
+            "issue": "Type of Legal Issue *",
+            "message": "Message *"
+        },
+        "placeholders": {
+            "name": "Enter your full name",
+            "email": "your.email@example.com",
+            "phone": "+250 XXX XXX XXX",
+            "issue": "Select an option",
+            "message": "Please describe your legal matter..."
+        },
+        "issues": {
+            "corporate": "Corporate Law",
+            "civil": "Civil Litigation",
+            "criminal": "Criminal Defense",
+            "family": "Family Law",
+            "property": "Property Law",
+            "employment": "Employment Law",
+            "other": "Other"
+        },
+        "messages": {
+            "success": "Thank you for your message! We'll get back to you soon.",
+            "error": "Something went wrong. Please try again or contact us directly."
+        },
+        "buttons": {
+            "sending": "Sending...",
+            "send": "Send Message"
+        },
+        "footer": "* Required fields. Your information will be kept confidential."
+    },
+    "PracticeAreasPage": {
+        "metadata": {
+            "title": "Practice Areas | Key Law Chambers Ltd",
+            "description": "Comprehensive legal services including corporate law, civil litigation, criminal defense, family law, property law, and employment law."
+        },
+        "hero": {
+            "title": "Our Practice Areas",
+            "subtitle": "Comprehensive legal services tailored to meet your specific needs across a wide range of practice areas."
+        },
+        "services": {
+            "corporate": {
+                "title": "Corporate Law",
+                "description": "Business formation, corporate governance, mergers and acquisitions, commercial contracts, shareholder agreements, and regulatory compliance. We help businesses navigate complex legal landscapes."
+            },
+            "civil": {
+                "title": "Civil Litigation",
+                "description": "Representation in civil disputes, contract breaches, tort claims, debt recovery, and commercial litigation. Our experienced litigators fight vigorously to protect your interests in court."
+            },
+            "criminal": {
+                "title": "Criminal Defense",
+                "description": "Aggressive defense strategies for criminal charges, from minor offenses to serious felonies. We protect your rights, freedom, and future with comprehensive legal representation."
+            },
+            "family": {
+                "title": "Family Law",
+                "description": "Compassionate guidance through divorce, child custody, spousal support, adoption, and other family matters. We help you navigate emotional legal issues with sensitivity and expertise."
+            },
+            "property": {
+                "title": "Property Law",
+                "description": "Real estate transactions, property disputes, land registration, title verification, lease agreements, and property development. Comprehensive legal support for all property matters."
+            },
+            "employment": {
+                "title": "Employment Law",
+                "description": "Employment contracts, workplace disputes, wrongful termination, discrimination claims, and labor law compliance. Protecting both employers and employees in workplace matters."
+            },
+            "contract": {
+                "title": "Contract Law",
+                "description": "Drafting, reviewing, and negotiating contracts of all types. Ensuring your agreements are legally sound and protect your interests in business and personal transactions."
+            },
+            "banking": {
+                "title": "Banking & Finance",
+                "description": "Financial transactions, loan agreements, securities, banking regulations, and financial dispute resolution. Expert guidance through complex financial legal matters."
+            },
+            "ip": {
+                "title": "Intellectual Property",
+                "description": "Trademark registration, copyright protection, patent applications, and IP litigation. Safeguarding your creative works and innovations from infringement."
+            }
+        },
+        "approach": {
+            "title": "Our Approach",
+            "subtitle": "We combine legal expertise with personalized service to deliver exceptional results",
+            "strategic": {
+                "title": "Strategic Thinking",
+                "description": "We develop customized legal strategies tailored to your unique situation and objectives."
+            },
+            "communication": {
+                "title": "Clear Communication",
+                "description": "We keep you informed every step of the way with transparent, jargon-free communication."
+            },
+            "results": {
+                "title": "Proven Results",
+                "description": "Our track record speaks for itself with successful outcomes across all practice areas."
+            }
+        },
+        "cta": {
+            "title": "Need Legal Assistance?",
+            "subtitle": "Contact us today to discuss how we can help with your legal matter.",
+            "button": "Schedule a Consultation"
+        }
+    },
+    "PrivacyPolicyPage": {
+        "metadata": {
+            "title": "Privacy Policy | Key Law Chambers Ltd",
+            "description": "Privacy policy for Key Law Chambers Ltd. Learn how we collect, use, and protect your personal information."
+        },
+        "hero": {
+            "title": "Privacy Policy",
+            "date": "Last Updated: December 29, 2025"
+        },
+        "intro": "At Key Law Chambers Ltd, we are committed to protecting your privacy and maintaining the confidentiality of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information.",
+        "sections": {
+            "s1": {
+                "title": "1. Information We Collect",
+                "p1": "We may collect personal information that you voluntarily provide to us when you:",
+                "list1": [
+                    "Contact us through our website contact form",
+                    "Call or email our office",
+                    "Engage our legal services",
+                    "Visit our office in person"
+                ],
+                "p2": "The types of personal information we may collect include:",
+                "list2": [
+                    "Name and contact information (email address, phone number, mailing address)",
+                    "Information about your legal matter",
+                    "Any other information you choose to provide"
+                ]
+            },
+            "s2": {
+                "title": "2. How We Use Your Information",
+                "p1": "We use the information we collect to:",
+                "list": [
+                    "Provide legal services and respond to your inquiries",
+                    "Communicate with you about your legal matters",
+                    "Maintain client records and case files",
+                    "Comply with legal and professional obligations",
+                    "Improve our services and website functionality"
+                ]
+            },
+            "s3": {
+                "title": "3. Attorney-Client Privilege",
+                "content": "All communications between you and Key Law Chambers Ltd are protected by attorney-client privilege and professional confidentiality rules. We maintain strict confidentiality of all client information in accordance with legal and ethical obligations."
+            },
+            "s4": {
+                "title": "4. Information Sharing and Disclosure",
+                "p1": "We do not sell, trade, or rent your personal information to third parties. We may share your information only in the following circumstances:",
+                "list": [
+                    "With your explicit consent",
+                    "When required by law or legal process",
+                    "To protect our rights, property, or safety, or that of others",
+                    "With service providers who assist us in operating our practice (subject to confidentiality agreements)"
+                ]
+            },
+            "s5": {
+                "title": "5. Data Security",
+                "content": "We implement appropriate technical and organizational security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security."
+            },
+            "s6": {
+                "title": "6. Cookies and Website Analytics",
+                "content": "Our website may use cookies and similar tracking technologies to enhance user experience and analyze website traffic. You can control cookie settings through your browser preferences."
+            },
+            "s7": {
+                "title": "7. Your Rights",
+                "p1": "You have the right to:",
+                "list": [
+                    "Access the personal information we hold about you",
+                    "Request correction of inaccurate information",
+                    "Request deletion of your personal information (subject to legal obligations)",
+                    "Withdraw consent for processing your information",
+                    "Lodge a complaint with relevant data protection authorities"
+                ]
+            },
+            "s8": {
+                "title": "8. Data Retention",
+                "content": "We retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, comply with legal obligations, resolve disputes, and enforce our agreements. Client files are retained in accordance with professional rules and legal requirements."
+            },
+            "s9": {
+                "title": "9. Third-Party Links",
+                "content": "Our website may contain links to third-party websites. We are not responsible for the privacy practices or content of these external sites. We encourage you to review the privacy policies of any third-party sites you visit."
+            },
+            "s10": {
+                "title": "10. Changes to This Privacy Policy",
+                "content": "We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the \"Last Updated\" date. We encourage you to review this Privacy Policy periodically."
+            },
+            "s11": {
+                "title": "11. Contact Us",
+                "p1": "If you have any questions or concerns about this Privacy Policy or our data practices, please contact us:",
+                "info": {
+                    "name": "Key Law Chambers Ltd",
+                    "phone": "Phone: ",
+                    "email": "Email: ",
+                    "hours": "Office Hours: Monday - Friday, 9:00 AM - 5:00 PM"
+                }
+            }
+        },
+        "footer": {
+            "title": "Professional Responsibility:",
+            "content": "As legal professionals, we are bound by strict ethical rules regarding client confidentiality. Your trust is paramount, and we take our responsibility to protect your information very seriously.",
+            "button": "Contact Us"
+        }
+    }
+}

@@ -2,8 +2,10 @@
 
 import { useState, FormEvent } from 'react';
 import Button from './Button';
+import { useTranslations } from 'next-intl';
 
 export default function ContactForm() {
+    const t = useTranslations('ContactForm');
     const [formData, setFormData] = useState({
         name: '',
         email: '',
@@ -33,6 +35,7 @@ export default function ContactForm() {
                 setStatus('error');
             }
         } catch (error) {
+            console.error('Contact form submission error:', error);
             setStatus('error');
         }
     };
@@ -48,7 +51,7 @@ export default function ContactForm() {
         <form onSubmit={handleSubmit} className="space-y-6">
             <div>
                 <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-2">
-                    Full Name *
+                    {t('labels.name')}
                 </label>
                 <input
                     type="text"
@@ -58,13 +61,13 @@ export default function ContactForm() {
                     value={formData.name}
                     onChange={handleChange}
                     className="w-full px-4 py-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-all"
-                    placeholder="Enter your full name"
+                    placeholder={t('placeholders.name')}
                 />
             </div>
 
             <div>
                 <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-2">
-                    Email Address *
+                    {t('labels.email')}
                 </label>
                 <input
                     type="email"
@@ -74,13 +77,13 @@ export default function ContactForm() {
                     value={formData.email}
                     onChange={handleChange}
                     className="w-full px-4 py-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-all"
-                    placeholder="your.email@example.com"
+                    placeholder={t('placeholders.email')}
                 />
             </div>
 
             <div>
                 <label htmlFor="phone" className="block text-sm font-medium text-gray-700 mb-2">
-                    Phone Number
+                    {t('labels.phone')}
                 </label>
                 <input
                     type="tel"
@@ -89,13 +92,13 @@ export default function ContactForm() {
                     value={formData.phone}
                     onChange={handleChange}
                     className="w-full px-4 py-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-all"
-                    placeholder="+250 XXX XXX XXX"
+                    placeholder={t('placeholders.phone')}
                 />
             </div>
 
             <div>
                 <label htmlFor="legalIssue" className="block text-sm font-medium text-gray-700 mb-2">
-                    Type of Legal Issue *
+                    {t('labels.issue')}
                 </label>
                 <select
                     id="legalIssue"
@@ -105,20 +108,20 @@ export default function ContactForm() {
                     onChange={handleChange}
                     className="w-full px-4 py-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-all"
                 >
-                    <option value="">Select an option</option>
-                    <option value="corporate">Corporate Law</option>
-                    <option value="civil">Civil Litigation</option>
-                    <option value="criminal">Criminal Defense</option>
-                    <option value="family">Family Law</option>
-                    <option value="property">Property Law</option>
-                    <option value="employment">Employment Law</option>
-                    <option value="other">Other</option>
+                    <option value="">{t('placeholders.issue')}</option>
+                    <option value="corporate">{t('issues.corporate')}</option>
+                    <option value="civil">{t('issues.civil')}</option>
+                    <option value="criminal">{t('issues.criminal')}</option>
+                    <option value="family">{t('issues.family')}</option>
+                    <option value="property">{t('issues.property')}</option>
+                    <option value="employment">{t('issues.employment')}</option>
+                    <option value="other">{t('issues.other')}</option>
                 </select>
             </div>
 
             <div>
                 <label htmlFor="message" className="block text-sm font-medium text-gray-700 mb-2">
-                    Message *
+                    {t('labels.message')}
                 </label>
                 <textarea
                     id="message"
@@ -128,28 +131,28 @@ export default function ContactForm() {
                     value={formData.message}
                     onChange={handleChange}
                     className="w-full px-4 py-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-all resize-none"
-                    placeholder="Please describe your legal matter..."
+                    placeholder={t('placeholders.message')}
                 />
             </div>
 
             {status === 'success' && (
                 <div className="bg-green-50 border border-green-200 text-green-800 px-4 py-3 rounded-md">
-                    Thank you for your message! We'll get back to you soon.
+                    {t('messages.success')}
                 </div>
             )}
 
             {status === 'error' && (
                 <div className="bg-red-50 border border-red-200 text-red-800 px-4 py-3 rounded-md">
-                    Something went wrong. Please try again or contact us directly.
+                    {t('messages.error')}
                 </div>
             )}
 
             <Button type="submit" variant="primary" size="large" className="w-full">
-                {status === 'loading' ? 'Sending...' : 'Send Message'}
+                {status === 'loading' ? t('buttons.sending') : t('buttons.send')}
             </Button>
 
             <p className="text-sm text-gray-500 text-center">
-                * Required fields. Your information will be kept confidential.
+                {t('footer')}
             </p>
         </form>
     );

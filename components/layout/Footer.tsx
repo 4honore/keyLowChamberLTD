@@ -1,8 +1,11 @@
-import Link from 'next/link';
+import { Link } from '@/navigation';
 import Image from 'next/image';
+import { useTranslations } from 'next-intl';
 
 export default function Footer() {
     const currentYear = new Date().getFullYear();
+    const t = useTranslations('Footer');
+    const navT = useTranslations('Navbar');
 
     return (
         <footer className="bg-primary-800 text-white">
@@ -18,37 +21,37 @@ export default function Footer() {
                             className="h-12 w-auto brightness-0 invert"
                         />
                         <p className="text-gray-300 text-sm leading-relaxed">
-                            Professional legal services with integrity, expertise, and dedication to our clients' success.
+                            {t('about')}
                         </p>
                     </div>
 
                     {/* Column 2: Quick Links */}
                     <div>
-                        <h3 className="text-lg font-semibold mb-4 text-accent-400">Quick Links</h3>
+                        <h3 className="text-lg font-semibold mb-4 text-accent-400">{t('quickLinks')}</h3>
                         <ul className="space-y-2">
                             <li>
                                 <Link href="/" className="text-gray-300 hover:text-accent-400 transition-colors">
-                                    Home
+                                    {navT('home')}
                                 </Link>
                             </li>
                             <li>
                                 <Link href="/about" className="text-gray-300 hover:text-accent-400 transition-colors">
-                                    About Us
+                                    {navT('about')}
                                 </Link>
                             </li>
                             <li>
                                 <Link href="/practice-areas" className="text-gray-300 hover:text-accent-400 transition-colors">
-                                    Practice Areas
+                                    {navT('practiceAreas')}
                                 </Link>
                             </li>
                             <li>
                                 <Link href="/contact" className="text-gray-300 hover:text-accent-400 transition-colors">
-                                    Contact
+                                    {navT('contact')}
                                 </Link>
                             </li>
                             <li>
                                 <Link href="/privacy-policy" className="text-gray-300 hover:text-accent-400 transition-colors">
-                                    Privacy Policy
+                                    {t('privacyPolicy')}
                                 </Link>
                             </li>
                         </ul>
@@ -56,7 +59,7 @@ export default function Footer() {
 
                     {/* Column 3: Contact Information */}
                     <div>
-                        <h3 className="text-lg font-semibold mb-4 text-accent-400">Contact Us</h3>
+                        <h3 className="text-lg font-semibold mb-4 text-accent-400">{t('contactUs')}</h3>
                         <ul className="space-y-3 text-gray-300 text-sm">
                             <li className="flex items-start">
                                 <svg className="w-5 h-5 mr-2 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -74,7 +77,7 @@ export default function Footer() {
                                 <svg className="w-5 h-5 mr-2 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                                 </svg>
-                                <span>Mon - Fri: 9:00 AM - 5:00 PM</span>
+                                <span>{t('hours')}</span>
                             </li>
                         </ul>
                     </div>
@@ -82,7 +85,7 @@ export default function Footer() {
 
                 {/* Bottom Bar */}
                 <div className="border-t border-primary-700 mt-8 pt-8 text-center text-gray-400 text-sm">
-                    <p>&copy; {currentYear} Key Law Chambers Ltd. All rights reserved.</p>
+                    <p>{t('rights', { year: currentYear })}</p>
                 </div>
             </div>
         </footer>
