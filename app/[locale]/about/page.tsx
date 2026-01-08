@@ -77,7 +77,7 @@ export default function AboutPage() {
                                             <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
                                         </svg>
                                     </div>
-                                    <h3 className="text-2xl font-bold">NTAZIKA Néhémie</h3>
+                                    <h3 className="text-2xl font-bold">{t('counsel.name')}</h3>
                                     <p className="text-accent-200 mt-2">{t('counsel.role')}</p>
                                 </div>
                             </div>
@@ -94,25 +94,25 @@ export default function AboutPage() {
                                         <svg className="w-5 h-5 text-accent-500 mr-2 mt-1 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                                             <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                                         </svg>
-                                        <span className="text-gray-700">{t('counsel.expertise.banking')}</span>
+                                        <span className="text-gray-700">{t('counsel.expertise.corporate')}</span>
                                     </li>
                                     <li className="flex items-start">
                                         <svg className="w-5 h-5 text-accent-500 mr-2 mt-1 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                                             <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                                         </svg>
-                                        <span className="text-gray-700">{t('counsel.expertise.debt')}</span>
+                                        <span className="text-gray-700">{t('counsel.expertise.litigation')}</span>
                                     </li>
                                     <li className="flex items-start">
                                         <svg className="w-5 h-5 text-accent-500 mr-2 mt-1 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                                             <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                                         </svg>
-                                        <span className="text-gray-700">{t('counsel.expertise.mediation')}</span>
+                                        <span className="text-gray-700">{t('counsel.expertise.criminal')}</span>
                                     </li>
                                     <li className="flex items-start">
                                         <svg className="w-5 h-5 text-accent-500 mr-2 mt-1 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                                             <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                                         </svg>
-                                        <span className="text-gray-700">{t('counsel.expertise.legalAid')}</span>
+                                        <span className="text-gray-700">{t('counsel.expertise.property')}</span>
                                     </li>
                                 </ul>
 
