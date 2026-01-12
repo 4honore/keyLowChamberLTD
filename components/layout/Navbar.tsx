@@ -45,12 +45,6 @@ export default function Navbar() {
                             </Link>
                         ))}
                         <LanguageSwitcher />
-                        <Link
-                            href="/contact"
-                            className="bg-accent-500 text-white px-6 py-2.5 rounded-md hover:bg-accent-600 font-semibold shadow-md hover:shadow-lg transform hover:-translate-y-0.5 transition-all"
-                        >
-                            {t('contact')}
-                        </Link>
                     </div>
 
                     {/* Mobile Menu Button */}
@@ -94,13 +88,7 @@ export default function Navbar() {
                                     {link.name}
                                 </Link>
                             ))}
-                            <Link
-                                href="/contact"
-                                className="bg-accent-500 text-white px-6 py-2.5 rounded-md hover:bg-accent-600 font-semibold text-center shadow-md"
-                                onClick={() => setIsMenuOpen(false)}
-                            >
-                                {t('contact')}
-                            </Link>
+
                         </div>
                     </div>
                 )}
